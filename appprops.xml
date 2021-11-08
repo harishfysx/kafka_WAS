@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>xml example</comment>
+    <entry key="kafka_topic">first_topic</entry>
+    <entry key="kafka_bootstrap_server">kafka165.harishfysx.com:9092</entry>
+    <entry key="kafka_group_id">bpm_app_EPA</entry>
+    <entry key="jms_cred_usrname">dmgr_admin</entry>
+    <entry key="jms_cred_password">admin</entry>
+    <entry key="process_app_acronym">HKC</entry>
+    <entry key="start_uca_name">KafkaStarEvent</entry>
+    <entry key="uca_event_message">778ca50b-00de-48c0-a0ef-202ba58b1b4a</entry>
+    <entry key="uca_complexInput">externalMessage</entry>
+</properties>
